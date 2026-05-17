@@ -1,4 +1,4 @@
-name: Deploy Infra with terraform in AWS
+name: Deploy Infra with terraform 
 
 on:
   push:
